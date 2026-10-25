@@ -1,0 +1,6 @@
+{
+  "name": "GameReverse Studio",
+  "description": "AI-powered game reverse engineering, modding, asset deconstruction, and interactive Claude-style analysis studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

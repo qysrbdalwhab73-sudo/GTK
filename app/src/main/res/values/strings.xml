@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameReverse</string>
+    <string name="chat_placeholder">Ask about game files, weapon data, offsets, or mods…</string>
+    <string name="upload_file">Upload File</string>
+    <string name="thinking_trace">Thinking Process</string>
+    <string name="thinking_level">Thinking Mode</string>
+    <string name="open_artifact">Open Artifact</string>
+    <string name="inspect_hex">Hex Inspector</string>
+    <string name="decompile_analysis">Decompile &amp; Disassemble</string>
+    <string name="extract_assets">Extract Assets</string>
+    <string name="generate_art">Generate Game Art</string>
+    <string name="record_audio">Voice Input</string>
+</resources>
